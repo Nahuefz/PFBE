@@ -1,0 +1,16 @@
+[
+	{
+		"title": "La Mona Lisa",
+		"author": "Salvador Dali",
+		"price": 2000000,
+		"copies": 1,
+		"id": 1
+	},
+	{
+		"title": "Ruina",
+		"author": "Pablo Picasso",
+		"price": 1500000,
+		"copies": 3,
+		"id": 2
+	}
+]
